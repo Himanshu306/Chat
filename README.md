@@ -1,5 +1,5 @@
 # Chat
-Clone it in your using git clone command.
+Clone it in system your using git clone command.
 Install required modules.
 Then open terminal and change drive to client/public folder.
 The type npm start in terminal window.
